@@ -1,6 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
-V2VFormer++ is a <strong>Multi-modal</strong> <strong>COO</strong>perative <strong>D</strong>etection framework for autonomous driving. It is also the official implementation of the <strong> TITS 2024  </strong>
+V2VFormer++ is a Multi-Modal Vehicle-to-Vehicle Cooperative Perception framework for autonomous driving. It is also the official implementation of the <strong> TITS 2024  </strong>
 paper [V2VFormer++.](https://ieeexplore.ieee.org/abstract/document/10265751)
 
 
